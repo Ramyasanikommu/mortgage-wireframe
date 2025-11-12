@@ -8,7 +8,7 @@ This is a lightweight React + Vite project implementing a functional mortgage ca
 
 ## 🌐 Live Demo
 Deployed on Microsoft Azure Static Web App:
-https://mortgage-calculator.azurestaticapps.net
+https://jolly-meadow-01e1f7c10.3.azurestaticapps.net
 
 
 ## Requirements
