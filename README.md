@@ -6,6 +6,11 @@ This is a lightweight React + Vite project implementing a functional mortgage ca
 - Auto-save to localStorage
 - Responsive layout and accessible form markup
 
+## 🌐 Live Demo
+Deployed on Microsoft Azure Static Web App:
+https://mortgage-calculator.azurestaticapps.net
+
+
 ## Requirements
 - Node.js (16+ recommended) and npm
 
